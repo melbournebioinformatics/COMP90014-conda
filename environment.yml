@@ -19,7 +19,7 @@ dependencies:
       - pandas
       #- pysam
       - regex
-      #- scikit-learn
+      - scikit-learn
       - scipy
       - seaborn
       - umap-learn
