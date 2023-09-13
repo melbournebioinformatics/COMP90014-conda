@@ -8,7 +8,7 @@ dependencies:
   #- bioconda::samtools
   - graphviz
   - pip:
-      #- altair
+      - altair
       - biopython
       - pygraphviz
       - pydot
@@ -22,5 +22,5 @@ dependencies:
       #- scikit-learn
       - scipy
       - seaborn
-      #- umap-learn
-      #- vega
+      - umap-learn
+      - vega
