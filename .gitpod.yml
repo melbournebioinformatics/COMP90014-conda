@@ -1,0 +1,14 @@
+image:
+  file: .gitpod.Dockerfile
+
+tasks:
+  - name: Install PyPi packages
+    command: pip3 install -r requirements.txt
+
+vscode:
+  extensions:
+    - eamodio.gitlens
+    - janisdd.vscode-edit-csv
+    - mechatroner.rainbow-csv
+    - ms-python.python
+    - ms-toolsai.jupyter
