@@ -1,11 +1,10 @@
-notebook>=7.0.3
-#nbgrader>=0.9.0
-numpy
-pandas
-pygraphviz
-pydot
-matplotlib
 biopython
+matplotlib
 mmh3
 networkx
+notebook==6.5.5
+numpy
+pandas
+pydot
+pygraphviz
 regex
