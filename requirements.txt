@@ -6,5 +6,6 @@ pygraphviz
 pydot
 matplotlib
 biopython
+mmh3
 networkx
 regex
